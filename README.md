@@ -2,7 +2,7 @@
 
 This is a sample application for Angular Server Side Rendering.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5 and [Angular Universal](https://angular.io/guide/universal).
 
 ## Development server
 
